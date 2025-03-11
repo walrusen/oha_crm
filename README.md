@@ -1,6 +1,6 @@
-# 🚀 OrderFlow CRM - Smart Order & Workflow Management System  
+# 🚀  Oha CRM - Smart Order & Workflow Management System  
 
-**OrderFlow CRM** is a **fully customizable and open-source** Customer Relationship Management (CRM) system built with **FastAPI**. It provides a high-performance backend for managing **orders, customer relationships, team workflows, and business analytics** in an easy and efficient way.  
+**Oha CRM** is a **fully customizable and open-source** Customer Relationship Management (CRM) system built with **FastAPI**. It provides a high-performance backend for managing **orders, customer relationships, team workflows, and business analytics** in an easy and efficient way.  
 
 ### **🔹 Key Features**  
 - **📦 Order Management** – Create, update, and track customer orders effortlessly.  
@@ -32,8 +32,8 @@ This project is licensed under the **MIT License**, which means you are free to 
 ### **📥 Get Started**
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/orderflow-crm.git
-   cd orderflow-crm
+   git clone https://github.com/walrusen/oha_crm.git
+   cd oha_crm
 
 2. **Set up a virtual environment & install dependencies:**
    ```bash
